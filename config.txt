@@ -1,0 +1,2 @@
+some configerations that i have made and want to see
+reflected when i perform 'pull' in my directory
