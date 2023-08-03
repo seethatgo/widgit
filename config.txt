@@ -1,2 +1,3 @@
 some configerations that i have made and want to see
 reflected when i perform 'pull' in my directory
+and here is another line to my config.txt
