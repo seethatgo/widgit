@@ -1,4 +1,4 @@
 feature 1 implementation
 
 feature 2 implementation
-adding ability to handle multiple widgits
+adding ability to handle multiple widgits and weights
