@@ -4,4 +4,3 @@ asdasdasdas
 dasdas
 
 added locally
-added new local config
