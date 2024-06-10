@@ -1,5 +1,6 @@
 feature 1 implementation
 
 feature 2 implementation
+adding ability to handle multiple widgets
 
 feature 3 implementation
