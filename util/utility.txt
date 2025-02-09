@@ -5,7 +5,7 @@ there are several different features
 2
 3
 
-and mutiple configs
+and multiple configs
 a
 b
 c
