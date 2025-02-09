@@ -1,3 +1,4 @@
 some configurations that were checked in after init
 need to pull this file down
 added some changes to local config file
+done more changes to config file locally
